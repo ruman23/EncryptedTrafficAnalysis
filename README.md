@@ -93,10 +93,10 @@ If you face any issues or have any queries, please refer to the paper associated
   - University of Massachusetts Amherst
   - Email: ranwar@umass.edu
 
-- **Spyridon Mastorakis**
+- **Dr. Spyridon Mastorakis**
   - University of Notre Dame
   - Email: mastorakis@nd.edu
 
-- **Muhammad Taqi Raza**
+- **Dr. Muhammad Taqi Raza**
   - University of Massachusetts Amherst
   - Email: taqi@umass.edu
