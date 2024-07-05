@@ -67,7 +67,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International (
 
 You are free to:
 
-- **Share** — opy and redistribute the material in any medium or format for any purpose, even commercially.
+- **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 Under the following terms:
