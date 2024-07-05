@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains scripts and a limited dataset used for the paper titled **"Characterizing Encrypted Application Traffic through Cellular Radio Interface Protocol"**. The full dataset will be uploaded after the paper is published in a journal.
+This repository contains scripts and a limited dataset used for the paper titled **"Characterizing Encrypted Application Traffic through Cellular Radio Interface Protocol"**.
 
 ## Folder Structure
 
@@ -83,4 +83,20 @@ The authors of this work expressly prohibit the misuse of this material or the i
 
 ## Issues and Queries
 
-If you face any issues or have any queries, please refer to the paper associated with this work or feel free to contact any of the authors.
+If you face any issues or have any queries, please refer to the paper associated with this work or feel free to contact any of the authors:
+
+- **Md Ruman Islam**
+  - University of Nebraska Omaha
+  - Email: mdrumanislam@unomaha.edu
+
+- **Raja Hasnain Anwar**
+  - University of Massachusetts Amherst
+  - Email: ranwar@umass.edu
+
+- **Spyridon Mastorakis**
+  - University of Notre Dame
+  - Email: mastorakis@nd.edu
+
+- **Muhammad Taqi Raza**
+  - University of Massachusetts Amherst
+  - Email: taqi@umass.edu
